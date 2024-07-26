@@ -1,4 +1,4 @@
-mport requests
+import requests
 import json
 import getpass
 from dependencies import banner
